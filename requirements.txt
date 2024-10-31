@@ -1,0 +1,6 @@
+Django==4.2  # Certifique-se de usar a versão que você prefere
+django-crispy-forms  # Para facilitar o estilo dos formulários, caso necessário
+django-widget-tweaks  # Para customização de formulários nos templates
+reportlab  # Para gerar ou manipular PDFs, se necessário
+pypdf2  # Para manipular arquivos PDF, caso seja útil
+epub-reader  # Opcional, caso queira suporte para arquivos ePub
